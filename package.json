@@ -1,0 +1,24 @@
+{
+  "name": "curso-fullstack",
+  "version": "1.0.0",
+  "description": "Anotação de todos os meus cursos para desenvolvimento fullStack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryifms/curso-fullstack.git"
+  },
+  "keywords": [
+    "Cursos",
+    "Dev",
+    "FullStack"
+  ],
+  "author": "Henry Thomaz Oliveira Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/henryifms/curso-fullstack/issues"
+  },
+  "homepage": "https://github.com/henryifms/curso-fullstack#readme"
+}
