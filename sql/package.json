@@ -1,0 +1,15 @@
+{
+  "name": "sql",
+  "version": "1.0.0",
+  "description": "Execicios SQL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  "sql": "node ."
+  },
+  "author": "Henry Thomaz Oliveira Campos",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
