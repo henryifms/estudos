@@ -1,12 +1,39 @@
 # Javascript
 
 javascript/ex027/package-lock.json
+
 javascript/ex028/package-lock.json
+
 javascript/ex029/package-lock.json
+
 javascript/ex030/package-lock.json
+
 javascript/ex036/package-lock.json
+
 javascript/ex039/package-lock.json
+
 javascript/ex043/package-lock.json
+
 javascript/mini-tarefas/package-lock.json
+
 javascript/moedas-conversor/package-lock.json
+
 javascript/robo-email/package-lock.json
+
+# Node
+
+node/ex001/yarn.lock
+node/ex001/package-lock.json
+
+node/ex002/yarn.lock
+node/ex002/package-lock.json
+
+node/ex004/package-lock.json
+
+node/ex006/package-lock.json
+
+node/ex008/yarn.lock
+node/ex008/package-lock.json
+
+node/ex009/yarn.lock
+node/ex009/package-lock.json
