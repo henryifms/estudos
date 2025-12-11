@@ -43,3 +43,4 @@ node/ex009/package-lock.json
 sql/package-lock.json
 sql/yarn.lock
 sql/node_modules
+sql/estudos-sql.db
